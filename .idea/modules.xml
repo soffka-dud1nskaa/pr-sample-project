@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/laba 4.iml" filepath="$PROJECT_DIR$/laba 4.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/JavaLab2.iml" filepath="$PROJECT_DIR$/JavaLab2.iml" />
+>>>>>>> 80beefd1c6bf6e2a149aca6fa85374a9285f43ef
     </modules>
   </component>
 </project>

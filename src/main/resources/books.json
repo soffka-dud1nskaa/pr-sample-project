@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "publishingYear": 1813,
+    "isbn": "9780141439518",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "name": "Emma",
+    "author": "Jane Austen",
+    "publishingYear": 1815,
+    "isbn": "9780141439587",
+    "publisher": "Penguin Classics"
+  },
+  {
+    "name": "1984",
+    "author": "George Orwell",
+    "publishingYear": 1949,
+    "isbn": "9780451524935",
+    "publisher": "Signet Classics"
+  },
+  {
+    "name": "Animal Farm",
+    "author": "George Orwell",
+    "publishingYear": 1945,
+    "isbn": "9780451526342",
+    "publisher": "Signet Classics"
+  },
+  {
+    "name": "The Hobbit",
+    "author": "J. R. R. Tolkien",
+    "publishingYear": 1937,
+    "isbn": "9780547928227",
+    "publisher": "Mariner Books"
+  },
+  {
+    "name": "The Little Prince",
+    "author": "Antoine de Saint-Exupery",
+    "publishingYear": 1943,
+    "isbn": "9780156012195",
+    "publisher": "Mariner Books"
+  }
+]
